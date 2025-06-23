@@ -11,7 +11,7 @@ Bienvenido a mi portafolio de proyectos enfocados en análisis de datos, automat
 [Repositorio Titanic EDA](https://github.com/civera08/titanic-eda)  
 Análisis detallado usando Python para descubrir patrones en la supervivencia del Titanic.
 
-### Automatización de Facturación
+### Automatización de Procesos
 
 [Repositorio Automatización Facturación](https://github.com/civera08/automatizacion-facturacion)  
 Scripts para automatizar procesos administrativos y financieros.
