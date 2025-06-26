@@ -6,10 +6,9 @@ Bienvenido a mi portafolio de proyectos enfocados en análisis de datos, automat
 
 ## Proyectos destacados
 
-### Análisis Exploratorio Titanic
-
-[Repositorio Titanic EDA](https://github.com/civera08/titanic-eda)  
-Análisis detallado usando Python para descubrir patrones en la supervivencia del Titanic.
+### Análisis Exploratorio IBM HR Analytics
+[Repositorio Análisis Exploratorio](https://github.com/civera08/hr-attrition-analysis)
+Script para análisis y visualización de la rotación de personal en entornos laborales.
 
 ### Automatización de Procesos
 
